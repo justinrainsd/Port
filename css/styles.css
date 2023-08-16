@@ -8079,9 +8079,11 @@ textarea.form-control-lg {
   color: rgba(var(--bs-body-color-rgb), var(--bs-text-opacity)) !important;
 }
 
-.text-muted {
-  --bs-text-opacity: 1;
-  color: #6c757d !important;
+.text-muted1 {
+  --bs-text-opacity: 100%;
+  color: #323232;
+  font-size: medium;
+  text-align: left;
 }
 
 .text-black-50 {
@@ -10937,7 +10939,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/bg-masthead.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11062,7 +11064,7 @@ header.masthead .masthead-heading {
 
 .aboutme{
   font-size: large;
-  text-align: center;
+  text-align: left;
 }
 
 section#contact {
