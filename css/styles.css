@@ -8084,6 +8084,7 @@ textarea.form-control-lg {
   color: #323232;
   font-size: medium;
   text-align: left;
+  line-height: 1.40em;
 }
 
 .text-black-50 {
@@ -11063,7 +11064,7 @@ header.masthead .masthead-heading {
 }
 
 .aboutme{
-  font-size: large;
+  font-size: medium;
   text-align: left;
 }
 
